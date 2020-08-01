@@ -1,1 +1,1 @@
-Sample website. Mobnile friendly
+Sample website. Mobile friendly
